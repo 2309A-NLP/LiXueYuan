@@ -1,0 +1,11 @@
+﻿node_modules/
+*.log
+*.exe
+*.pdf
+*.zip
+*.tar.gz
+.DS_Store
+__pycache__/
+.env
+dist/
+build/

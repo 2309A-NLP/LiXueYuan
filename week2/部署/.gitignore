@@ -1,0 +1,45 @@
+﻿# Models
+models/
+model/
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.onnx
+
+# Uploads & Data
+uploads/
+data/*.pdf
+data/**/*.pdf
+
+# Temp files
+~$*
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Build
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+eval_run_log.txt
+
+# Environment
+.env
+
