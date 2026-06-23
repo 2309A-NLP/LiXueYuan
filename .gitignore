@@ -1,0 +1,56 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Node
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+log/
+logs/
+*.out
+
+# Environment
+.env
+.venv/
+venv/
+
+# Certificates / private keys
+*.pem
+*.key
+*.crt
+
+# Archives / binaries
+*.zip
+*.7z
+*.rar
+*.tar
+*.gz
+*.exe
+*.dll
+*.so
+*.bin
+
+# Model / checkpoint artifacts
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+
+# Large generated / uploaded data
+uploads/
+
+# Documents / datasets not intended for source control
+*.pdf
